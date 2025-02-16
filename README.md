@@ -12,4 +12,4 @@ All challenges proposed use the [quizdata][challenges_database] database.
 [challenges_database]:https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/database
 
 [retrieve_data]: https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/retrieve_data
-[joins_practice]: https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/joins_practice
+[joins_practice]: https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/joins_in_practice
