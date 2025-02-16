@@ -1,0 +1,14 @@
+SELECT
+    states.region,
+    people.team,
+    COUNT(people.team)
+FROM
+    people
+    JOIN
+        states
+        ON
+            people.state_code=states.state_abbrev
+GROUP BY
+    states.region,
+    people.team
+;
