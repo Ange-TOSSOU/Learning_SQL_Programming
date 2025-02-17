@@ -7,9 +7,11 @@ I create this repo to store all my solutions for code challenges proposed in the
 All challenges proposed use the [quizdata][challenges_database] database.
 - [Retrieve data from the database][retrieve_data]
 - [Practice with JOINs][joins_practice]
+- [State score metrics][state_score]
 
 [course_material_link]: https://www.linkedin.com/learning/learning-sql-programming-8382385
 [challenges_database]:https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/database
 
 [retrieve_data]: https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/retrieve_data
 [joins_practice]: https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/joins_in_practice
+[state_score]: https://github.com/Ange-TOSSOU/Learning_SQL_Programming/tree/main/state_score
