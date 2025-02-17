@@ -1,0 +1,15 @@
+SELECT
+    states.state_name AS STATE,
+    MAX(people.quiz_points) AS MAXPOINTS,
+    AVG(people.quiz_points) AS AVGPOINTS
+FROM
+    people
+    JOIN
+        states
+        ON
+            people.state_code=states.state_abbrev
+GROUP BY
+    people.state_code
+ORDER BY
+    AVGPOINTS DESC
+;
